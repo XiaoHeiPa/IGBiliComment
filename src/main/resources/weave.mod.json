@@ -1,0 +1,12 @@
+{
+  "name": "In Game Bilibili Comments (igbc)",
+  "author": "cubewhy",
+  "version": "1.0",
+  "link": "https://github.com/XiaoHeiPa/igbc",
+  "modId": "igbc",
+  "mixinConfigs": [
+  ],
+  "entrypoints": [
+    "org.cubewhy.comment.ModEntry"
+  ]
+}
